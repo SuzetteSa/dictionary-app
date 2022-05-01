@@ -11,7 +11,6 @@ export default function Dictionary() {
     setResults(response.data[0]);
   }
 
-  //(response.data[0].meanings[0].definitions[0].definition);
 
   function search(event) {
     event.preventDefault();
