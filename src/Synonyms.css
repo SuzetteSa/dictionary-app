@@ -1,0 +1,15 @@
+.Synonyms {
+margin: 20px 0 0;
+padding:0;
+display: inline;
+
+}
+
+
+.Synonyms li{
+padding-right: 15px;
+display: inline;
+color:blueviolet;
+font-size:12px;
+
+}
