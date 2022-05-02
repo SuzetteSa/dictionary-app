@@ -9,7 +9,7 @@ function App() {
         <header className="App-header">
           <img src={logo} className="App-logo img-fluid" alt="logo" />
         </header>
-        <main><Dictionary/></main>
+        <main><Dictionary defaultKeyword="sunset"/></main>
         <footer className="App-footer text-center">Coded by Suzette Samm</footer>
       </div>
     </div>
