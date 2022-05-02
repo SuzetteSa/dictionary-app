@@ -24,7 +24,7 @@ function App() {
             rel="noreferrer"
           >
             open-sourced on GitHub
-          </a>
+          </a>{" "}
           and{" "}
           <a
             href="https://fluffy-fenglisu-ce59bf.netlify.app"
